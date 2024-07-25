@@ -59,6 +59,7 @@ footer {
 
 .card {
   border-radius: 0;
+<<<<<<< HEAD
 }
 #page-top {
   width: 40px;
@@ -77,4 +78,6 @@ footer {
   width: 100%;
   height: 100%;
   border-radius: 50%;
+=======
+>>>>>>> 1_change_submit_color_blue
 }
